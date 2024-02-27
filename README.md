@@ -1,6 +1,5 @@
 # JunichiroKohari resume
 
 ## Data
-- [GitHub Pages](todo)
-- [PDF](todo)
-- [MarkDown](todo)
+- [PDF](https://github.com/JunichiroKohari/resume/releases)
+- [MarkDown](https://github.com/JunichiroKohari/resume/blob/master/docs/README.md)
