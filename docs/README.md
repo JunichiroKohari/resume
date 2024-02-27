@@ -51,7 +51,7 @@
 ![Docker](https://img.shields.io/badge/-docker-22272e.svg?style=popout-square&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-22272e.svg?logo=linux&style=popout-square)
 ![Windows Server](https://img.shields.io/badge/-Windows%20Server-22272e.svg?logo=windows&style=popout-square)
-![オンプレミス](https://img.shields.io/badge/-%E3%82%AA%E3%83%B3%E3%83%97%E3%83%AC%E3%83%9F%E3%82%B9-22272e.svg?logo=&style=popout-square)
+![on-premises](https://img.shields.io/badge/-on_premises-22272e.svg?logo=&style=popout-square)
 
 ### DB
 
